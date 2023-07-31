@@ -8,9 +8,6 @@ Hello there! I'm J Kim, a passionate Data Engineer with a strong background in d
 🔧 Tech Stack:
 🐍 Python | ⚙️ SQL | 🛢️ Big Data Tools | ☁️ Cloud Platforms | 🐘 Apache Hadoop | 🐬 Apache Spark | 🎛️ ETL Frameworks | 📊 Data Visualization
 
-🏢 Experience:
-I've worked in diverse industries, from tech startups to established enterprises, where I've collaborated with cross-functional teams to solve complex data challenges. My expertise lies in building data pipelines, integrating various data sources, and ensuring data quality and integrity.
-
 🔍 Current Focus:
 Currently, I'm delving deep into the realm of Big Data and distributed computing, exploring ways to optimize data processing, and embracing the latest advancements in cloud-based data technologies.
 
@@ -22,18 +19,3 @@ I'm always eager to connect with like-minded individuals, discuss exciting data 
 
 🌟 Let's build a data-driven future together! 🚀
 
-
-<!--
-**kkeyboard/kkeyboard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
