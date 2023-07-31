@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi My name is J Kim
+## Data Engineer | Python Programmer | Big Data & ML developer
+
+    🌍  I'm based in California
+    ✉️  You can contact me at jfkimjob@gmail.com
+
+:cat: Will finish this profile soon.
+
 
 <!--
 **kkeyboard/kkeyboard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
