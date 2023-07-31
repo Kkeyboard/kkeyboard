@@ -4,7 +4,7 @@
     🌍  I'm based in California
     ✉️  You can contact me at jfkimjob@gmail.com
 
-:cat: Will finish this profile soon.
+:cat: Well, I need to learn more about how to write GitHub profile. I will be back.
 
 
 <!--
