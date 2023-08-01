@@ -6,7 +6,7 @@
 Hello there! I'm J Kim, a passionate Data Engineer with a strong background in designing and implementing data pipelines, optimizing ETL processes, and architecting scalable data solutions. My mission is to transform raw data into valuable insights that empower decision-making and drive business growth.
 
 🔧 Tech Stack:
-🐍 Python | ⚙️ SQL | 🛢️ Big Data Tools | ☁️ Cloud Platforms | 🐘 Apache Hadoop | 🐬 Apache Spark | 🎛️ ETL Frameworks | 📊 Data Visualization
+🐍 Python | :triangular_ruler: R | :space_invader: C++ | ⚙️ SQL | 🛢️ Big Data Tools | ☁️ Cloud Platforms | 🐘 Apache Hadoop | 🐬 Apache Spark | 🎛️ ETL Frameworks | 📊 Data Visualization
 
 🔍 Current Focus:
 Currently, I'm delving deep into the realm of Big Data and distributed computing, exploring ways to optimize data processing, and embracing the latest advancements in cloud-based data technologies.
