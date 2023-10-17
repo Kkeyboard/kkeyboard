@@ -9,7 +9,7 @@ Hello there! I'm J Kim, a passionate Data Engineer with a strong background in d
 Python | C++ | C# | SQL | AWS | pandas | PyTorch | Hadoop | PySpark | Airflow
 
 🔍 Current Focus:
-Currently, I'm studying C#, ASP.NET and various data engineering related technologies.
+Currently, I'm studying C#, Django and various data engineering related technologies.
 
 📈 Continuous Learning:
 The data landscape is ever-evolving, and I'm committed to continuous learning. I enjoy attending data engineering conferences, participating in webinars, and reading up on the latest industry trends to stay ahead of the curve.
