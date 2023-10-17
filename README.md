@@ -6,7 +6,7 @@
 Hello there! I'm J Kim, a passionate Data Engineer with a strong background in designing and implementing data pipelines, optimizing ETL processes, and architecting scalable data solutions. My mission is to transform raw data into valuable insights that empower decision-making and drive business growth.
 
 🔧 Tech Stack:
-Python | C++ | C# | SQL | AWS | pandas | PyTorch | Hadoop | PySpark | Airflow
+Python | C++ | JavaScript | SQL | AWS | pandas | PyTorch | Hadoop | PySpark | Airflow
 
 🔍 Current Focus:
 Currently, I'm studying C#, Django and various data engineering related technologies.
